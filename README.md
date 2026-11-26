@@ -2,9 +2,18 @@
   <img src="assets/banner.gif" width="100%" alt="Kilian Vega, written in pixel letters under a green and violet aurora, with fireflies and a campfire.">
 </p>
 
+<img src="https://avatars.githubusercontent.com/u/170453519?v=4" width="120" align="right" alt="Kilian Vega's avatar.">
+
 I study Systems Engineering at Universidad de los Llanos in Villavicencio, Colombia, and build websites and small tools for local businesses. Most of what's here started as a client job or a class assignment.
 
 I write mostly JavaScript and Node.js, Python when a script will do, and C++ for school. I use AI coding agents every day, which in practice means a lot of reading and fixing the code they write. Spanish is my first language; I work in English too.
+
+<br clear="right">
+
+<p align="center">
+  <img src="assets/languages.svg" width="100%" alt="Languages across my public repositories.">
+  <img src="assets/activity.svg" width="100%" alt="My GitHub contributions over the last year.">
+</p>
 
 ## Things I've built
 
